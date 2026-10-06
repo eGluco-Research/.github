@@ -26,6 +26,17 @@ This repository represents the current mobile development line of the eGluco pro
 
 ---
 
+### eGluco Firmware V3
+**Legacy firmware**
+
+Repository: https://github.com/eGluco-Research/firmware_egluco03
+
+Firmware used in the third version of the eGluco wearable device.
+
+This repository is maintained for historical reference, technical documentation, comparison between hardware and software versions, and research continuity.
+
+---
+
 ### eGluco Electron V6
 **Desktop version**
 
